@@ -4,7 +4,7 @@
 
 Python Script that downloads images from the given Link/Links.
 
-## Installation
+## Install
 
 - Python 3.8.2 or higher
 - Python packages: requests, BeautifulSoup4
